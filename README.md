@@ -1,5 +1,5 @@
-# Histopathological-Image-Analysis-Competition
-Repository for the GDSC Histopathological Image Analysis Competition.
+# Cancer-Image-Analysis-Competition
+Repository for the GDSC Cancer Image Analysis Competition.
 
 What I've done: 
 - Took a stratified sample of 500 images from the training data, augmented it, and trained a VGG16 image classifier.
