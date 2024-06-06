@@ -26,7 +26,7 @@ What I've done:
           - #### Each node in the graph corresponds to a nucleus identified in the image.
           - #### Edges Connecting Nearby Nuclei: Defining "nearby" based on a distance threshold.
 
-    - Segmentation Using Simple Linear Iterative Clustering (SLIC) - [Weights](https://github.com/shravan-18/Histopathological-Image-Analysis-Competition/blob/main/ckpt/GNN/gcn_model-slic.pth)
+    - Method 2: Segmentation Using Simple Linear Iterative Clustering (SLIC) - [Weights](https://github.com/shravan-18/Histopathological-Image-Analysis-Competition/blob/main/ckpt/GNN/gcn_model-slic.pth)
     
         - #### Images are segmented into superpixels, or segments, based on color similarity.
         - #### Number of segments, compactness, and sigma -  determine the granularity of the segmentation. 
