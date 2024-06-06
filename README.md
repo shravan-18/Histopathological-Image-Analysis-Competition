@@ -17,7 +17,7 @@ What I've done:
           
         - **Feature Extraction**
       
-          - Extract features such as area, perimeter, and eccentricity for each nucleus.
+          - Extract features such as area, perimeter, and eccentricity for each nucleus (I tried to learn nucleus features based on structure and edge at the nuclei level).
           - These features capture structural and textural aspects of the nuclei
           
         - **Construction of Adjacency Graph**
