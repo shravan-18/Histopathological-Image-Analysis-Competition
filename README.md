@@ -6,7 +6,7 @@ What I've done:
   
 - Trained a CycleGAN learnt off [this specialization course](https://www.coursera.org/account/accomplishments/specialization/certificate/MK2MTM8QZ9NC) to generate cancerous images from non-cancerous ones (and likewise).
     - The code used can be found [here](https://github.com/shravan-18/Histopathological-Image-Analysis-Competition/blob/main/AMD-Cloud-Runs/CycleGAN/cycle_gan.py).
-    - The resutls produced can be found [here](https://github.com/shravan-18/Histopathological-Image-Analysis-Competition/tree/main/AMD-Cloud-Runs/CycleGAN/CycleGAN_images).
+    - The results produced can be found [here](https://github.com/shravan-18/Histopathological-Image-Analysis-Competition/tree/main/AMD-Cloud-Runs/CycleGAN/CycleGAN_images).
     - The weights for the trained CycleGAN can be found [here](https://github.com/shravan-18/Histopathological-Image-Analysis-Competition/tree/main/ckpt/CycleGAN).
 
 - Tried experimenting with multiple options for GNNs, which are explained as follows:
