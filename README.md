@@ -56,6 +56,7 @@ Here are some of the images and results from the various models and techniques u
 
 ## References
 - [VGG16 Paper](https://arxiv.org/abs/1409.1556)
+- [Histopathalogy Classification Using VGG16 Paper](https://www.researchgate.net/publication/343452618_Breast_Cancer_Histopathology_Image_Classification_Using_an_Ensemble_of_Deep_Learning_Models/figures?lo=1&utm_source=google&utm_medium=organic)
 - [CycleGAN Paper](https://arxiv.org/abs/1703.10593)
 - [Otsu's Thresholding](https://ieeexplore.ieee.org/document/4310076)
 - [SLIC Superpixel Segmentation](https://ieeexplore.ieee.org/document/6205760)
