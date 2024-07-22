@@ -33,6 +33,7 @@ The goal of this project is to explore different methods for analyzing histopath
 ![CycleGAN Generated Images](https://github.com/shravan-18/Histopathological-Image-Analysis-Competition/blob/main/AMD-Cloud-Runs/CycleGAN/CycleGAN_images/fake_step_11025.jpg)
 ![CycleGAN Generated Images](https://github.com/shravan-18/Histopathological-Image-Analysis-Competition/blob/main/AMD-Cloud-Runs/CycleGAN/CycleGAN_images/fake_step_10500.jpg)
 ![CycleGAN Generated Images](https://github.com/shravan-18/Histopathological-Image-Analysis-Competition/blob/main/AMD-Cloud-Runs/CycleGAN/CycleGAN_images/fake_step_9975.jpg)
+
 *Figure 2: CycleGAN Generated Images*
 
 ### Graph Neural Networks (GNNs)
