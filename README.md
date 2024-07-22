@@ -5,7 +5,7 @@ My repository for the GDSC Cancer Image Analysis Competition. This project focus
 ## Table of Contents
 - [Overview](#overview)
 - [What I've Done](#what-ive-done)
-  - [VGG16 Image Classifier](#vgg16-image-classifier)
+  - [VGG16 Baseline Classifier](#vgg16-image-classifier)
   - [CycleGAN for Image Generation](#cyclegan-for-image-generation)
   - [Graph Neural Networks (GNNs)](#graph-neural-networks-gnns)
 - [Images and Results](#images-and-results)
