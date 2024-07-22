@@ -1,8 +1,6 @@
 # Cancer Image Analysis Competition
 
-![Cancer Image Analysis](https://upload.wikimedia.org/wikipedia/commons/5/50/Cancer_cells.jpg)
-
-Welcome to the repository for the GDSC Cancer Image Analysis Competition. This project focuses on utilizing various machine learning techniques for analyzing and classifying cancerous images. 
+My repository for the GDSC Cancer Image Analysis Competition. This project focuses on utilizing multiple variations of deep learning techniques for analyzing and classifying cancerous images. 
 
 ## Table of Contents
 - [Overview](#overview)
@@ -22,7 +20,7 @@ The goal of this project is to explore different methods for analyzing histopath
 - **Sample and Augmentation**: Took a stratified sample of 500 images from the training data, performed data augmentation, and trained a VGG16 image classifier.
 - **Model Training**: The VGG16 model was fine-tuned to improve its performance on the cancer image dataset.
 
-![VGG16 Image Classification](https://upload.wikimedia.org/wikipedia/commons/5/55/VGG16-architecture.jpg)
+![VGG16 Image Classification]((https://github.com/shravan-18/Histopathological-Image-Analysis-Competition/blob/main/misc/images/VGG16-Architecture.png))
 *Figure 1: VGG16 Image Classification Architecture*
 
 ### CycleGAN for Image Generation
@@ -32,7 +30,8 @@ The goal of this project is to explore different methods for analyzing histopath
   - The results produced can be found [here](https://github.com/shravan-18/Histopathological-Image-Analysis-Competition/tree/main/AMD-Cloud-Runs/CycleGAN/CycleGAN_images).
   - The weights for the trained CycleGAN can be found [here](https://github.com/shravan-18/Histopathological-Image-Analysis-Competition/tree/main/ckpt/CycleGAN).
 
-![CycleGAN Generated Images](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CycleGAN_architecture.jpg/1024px-CycleGAN_architecture.jpg)
+![CycleGAN Generated Images]((https://github.com/shravan-18/Histopathological-Image-Analysis-Competition/blob/main/AMD-Cloud-Runs/CycleGAN/CycleGAN_images/fake_step_11025.jpg))
+![CycleGAN Generated Images]()
 *Figure 2: CycleGAN Generated Images*
 
 ### Graph Neural Networks (GNNs)
